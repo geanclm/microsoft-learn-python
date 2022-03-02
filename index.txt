@@ -12,5 +12,16 @@
 </head>
 <body>
     estudando web-scraping-com-python
+   <ul>
+        <li>planejamento</li>
+        <li>paciência</li>
+        <li>persistência</li>
+    </ul>
+    <ol>
+        <li>profissionalismo</li>
+        <li>propósito</li>
+        <li>prosperidade</li>
+    </ol>
+    <br>
 </body>
 </html>
